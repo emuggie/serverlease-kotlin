@@ -1,2 +1,2 @@
-# serverlease-kotlin
-Experimental project for serverlease built on kotlin
+# Serverlease-kotlin
+Experimental project for Serverlease built on kotlin
